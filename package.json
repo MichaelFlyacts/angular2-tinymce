@@ -1,5 +1,5 @@
 {
-  "name": "angular2-tinymce",
+  "name": "@flyacts/angular2-tinymce",
   "version": "2.1.2",
   "description": "Angular component for TinyMCE MCE WYSIWYG editor",
   "scripts": {
